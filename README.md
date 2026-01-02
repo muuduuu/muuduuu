@@ -1,5 +1,5 @@
 # 💫 About Me:
-National Champion InCTF Junior 2021 | Regional Coordinator ACM India | B.Tech CSE 2026 (CGPA: 7.25/10). Security<br>engineer & DevOps architect specializing in distributed systems, blockchain infrastructure, and cloud-native security.<br>16+ months production experience building Kubernetes clusters, smart contracts, and fintech platforms. Expert in<br>AWS, Go, Solidity, and DevSecOps with proven track record optimizing deployments and reducing security vulnerabilities.<br>
+National Champion InCTF Junior 2021 | Regional Coordinator ACM India | Security<br>engineer & DevOps architect specializing in distributed systems, blockchain infrastructure, and cloud-native security.<br>16+ months production experience building Kubernetes clusters, smart contracts, and fintech platforms. Expert in<br>AWS, Go, Solidity, and DevSecOps with proven track record optimizing deployments and reducing security vulnerabilities.<br>
 
 
 ## 🌐 Socials:
