@@ -1,56 +1,23 @@
-text
-# 👋 Hi, I'm Akhil Menon (muuduuu)
+# 💫 About Me:
+National Champion InCTF Junior 2021 | Regional Coordinator ACM India | B.Tech CSE 2026 (CGPA: 7.25/10). Security<br>engineer & DevOps architect specializing in distributed systems, blockchain infrastructure, and cloud-native security.<br>16+ months production experience building Kubernetes clusters, smart contracts, and fintech platforms. Expert in<br>AWS, Go, Solidity, and DevSecOps with proven track record optimizing deployments and reducing security vulnerabilities.<br>
 
-Final-year B.Tech CSE student at **Amrita Vishwa Vidyapeetham**, Palakkad. Full-stack developer shipping commercial POS systems, blockchain healthcare platforms, IoT robots, and mobile apps.[memory:9][attached_file:1]
 
-**tinkering with computers...** Late-night coder building MVPs across client projects while crushing academics.[attached_file:1]
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhil04menon@gmail.com) 
 
-## 🚀 Featured Projects
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=muuduuu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=muuduuu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muuduuu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **[Apex-PoS](https://github.com/muuduuu/apex-pos)** | Commercial Point-of-Sale for multiple clients | React/Vite + Node.js + PostgreSQL | 🟢 Live[memory:3][memory:4] |
-| **[Cepheus Robot](https://github.com/muuduuu/cepheus)** | Autonomous IoT robot w/ LibDAR + RL dashboard | Python + Reinforcement Learning | 🎓 Academic[memory:7] |
-| **[HR Management](https://github.com/muuduuu/hr-system)** | Kuwait Labour Law payroll system | React + Express + Drizzle ORM | 🔄 In Progress[conversation_history:10] |
-| **[Image Downloader](https://github.com/muuduuu/image-downloader)** | Kotlin mobile app w/ Retrofit + JSON parsing | Kotlin/Android | ✅ Complete[memory:6] |
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=muuduuu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🛠️ Tech Stack
-
-graph TB
-A[Frontend
-React Next.js Vite TSX] --> B[Backend
-Node.js Go Express]
-B --> C[Database
-PostgreSQL Supabase]
-C --> D[Cloud
-DigitalOcean AWS Vercel]
-D --> E[Others
-Blockchain Kotlin MATLAB]
-
-text
-
-**Languages & Tools:** TypeScript, React, Node.js, Go, PostgreSQL, AWS, Kubernetes, CTF/Pentesting[memory:4][user-information]
-
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=muuduuu&show_icons=true&theme=radical&hide_border=true)[web:25]
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muuduuu&layout=compact&theme=radical)[web:25]
-
-## 🌟 Currently Building
-
-- Kubernetes clusters for production workloads
-- EEG stress detection with advanced signal processing
-- Hybrid blockchain consensus for healthcare traceability
-- Commercial inventory/payroll systems[memory:2]
-
-## 📫 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](https://muuduuu.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhil-menon)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhil@muuduuu.com)
-
-**⚡ Fun Fact:** Built autonomous robots while debugging React components at 3 AM[memory:7]
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=muuduuu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-⭐ **Star this repo** to show some love! Thanks for visiting.[attached_file:1][web:17]
